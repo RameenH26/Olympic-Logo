@@ -1,0 +1,16 @@
+h1
+{
+	color: white; 
+	font-size: 40px;
+}
+.body_backgorund {
+	background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.F4pxtYv9Rc0tyd_W-N9TgAHaGE%26pid%3DApi&f=1");
+	background-position: center;
+	background-size: cover;
+}
+
+#myCanvas{
+border-width: 10px;
+background-color: white;
+border-style: ridge;
+}
